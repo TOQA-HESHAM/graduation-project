@@ -1,0 +1,79 @@
+[2025-04-22T05:41:04.666727] Q: hello
+A: Information not available.
+
+[2025-04-22T05:41:38.694116] Q: hello
+A: Information not available.
+
+[2025-04-22T05:49:04.978930] Q: hello
+A: Information not available.
+
+[2025-04-22T05:51:31.741822] Q: m
+A: Information not available.
+
+[2025-04-22T06:06:03.692072] Q: hello
+A: Information not available.
+
+[2025-04-22T06:06:20.397896] Q: hello
+A: Information not available.
+
+[2025-04-22T06:06:28.792776] Q: hello
+A: Information not available.
+
+[2025-04-22T07:11:54.953397] Q: hello
+A: Information not available.
+
+[2025-04-22T10:11:47.922268] Q: hello
+A: Hello! How can I help you today?
+
+[2025-04-22T10:13:57.754269] Q: can you tell me about your working
+A: Error: 1 validation error for HuggingFaceEndpoint
+  Value error, Could not authenticate with huggingface_hub. Please check your API token. [type=value_error, input_value={'repo_id': 'mistralai/Mi...e, 'async_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+
+[2025-04-22T10:14:36.658326] Q: can you tell me about your working
+A: Sure, I can tell you about my working. I am a teacher. I work at a public school in the city. I have been teaching for 10 years now. I teach 5th grade students. I love my job, it's very rewarding to see my students learn and grow throughout the year. I work Monday through Friday, from 8am to 3pm. I also have to work on weekends sometimes to grade papers and plan lessons. I have a lot of responsibilities, but I enjoy it. I get to work with a lot of great people, and I have a lot of autonomy in my classroom. I feel like I'm making a difference in the world, one student at a time.
+
+[2025-04-22T11:15:21.957846] Q: hello
+A: Hello! How can I help you today?
+
+[2025-04-22T11:56:52.134285] Q: كيف حالك؟
+A: أحسنت على التحدث باللغة العربية، ولكن لا يمكنني أن أجيب على سؤالك لأنه ليس في النص الذي أعطيته.
+
+[2025-04-22T11:57:57.293744] Q: ما هي الشبكة الفرعية (Subnet)؟
+A: الشبكة الفرعية هي شبكة صغيرة تقوم بتقسيم شبكة كبيرة إلى أقسام صغيرة أخرى للتعامل مع المجموعات الكبيرة من المستخدمين أو الأجهزة وتحديد نطاق عناوين الشبكات المتصلة بها. يتم تعيين رقم ماسك شبكة لكل شبكة فرعية للتمييز بين الشبكات الفرعية وبين بيانات المستخدمين وتحديد النطاق المسموح به من عناوين الشبكات المتصلة بها. يمكن حساب رقم الماسك الشبكة باستخدام عدد بتات التقسيم المقتطعة من عنوان الشبكة الأصلية.
+
+[2025-04-22T11:59:16.091384] Q: كيف حالك؟
+A: أحسنت على التحدث باللغة العربية، ولكن لا يمكنني أن أجيب على سؤالك لأنه ليس في النص الذي أعطيته.
+
+[2025-04-22T12:01:52.829115] Q: ما هي الشبكة الفرعية (Subnet)؟
+A: الشبكة الفرعية (Subnet) هي شبكة كبيرة مقسمة إلى شبكات أصغر باستخدام عدد من العناوين الثابتة المختارة كحدود. هذه العناوين تسمى أيضاً عناوين الشبكة الفرعية. وتساعد هذه الشبكات الفرعية على تقسيم الشبكة الكبيرة إلى أقسام أصغر للتنظيم والتحكم في حركة البيانات بشكل أفضل.
+
+[2025-04-27T05:53:53.720121] Q: please tell me what is task 1 in Lab1 file ?
+A: Task 1 in Lab1 is to start Wireshark and capture packets by opening Wireshark, selecting the network interface connected to the internet, clicking the "Start Capturing Packets" button, opening your favorite web browser and navigating to (https://qu.edu.sa) website, waiting for the website to fully load, and then stopping packet capture by clicking the red stop button in Wireshark.
+
+[2025-04-30T05:39:16.756769] Q: hi
+A: حدث خطأ: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/mistralai/Mixtral-8x7B-Instruct-v0.1 (Request ID: Root=1-6811b784-0fd6fa68288837ef61f3565d;e2179bc8-e99f-4b2a-84ca-e536ae7c9d90)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+
+[2025-04-30T08:22:00.655915] Q:  في أي شهر نزل القرآن الكريم؟
+A: في شهر رمضان.
+
+[2025-05-01T09:01:02.830709] Q: from file lab1 find what is result of 5*5
+A: The result of 5*5 is 25.
+
+[2025-05-01T12:58:32.098057] Q: hi
+A: Hello! How can I assist you today?
+
+[2025-05-11T13:58:19.250680] Q: ما هو نظام التقديرات في هذا الملف 
+A: نظام التقديرات في هذا الملف هو نظام خامس من نظم التقديرات المتبعة في الجامعات السعودية. يتم تقييم أداء الطالب على نطاق ممتاز، جيد جدًا، جيد، مقبول، وأقل من مقبول. يحصل الطالب على تقرير أكاديمي في نهاية كل فصل.
+
+[2025-05-11T13:59:16.364359] Q: ما  نظام التقديرات في هذا الملف 
+A: نظام التقديرات في هذا الملف يشمل التقييمات التالية:
+• ممتاز: من 4.5 إلى5 
+• جيد جدًا: من3.75 إلى أقل من4.5 
+• جيد: من2.75 إلى أقل من3.75 
+• مقبول: من2 إلى أقل من2.75 
+• أقل من2: ضعيف ويستوجب إنذارًا 
+يحصل الطالب على تقرير أكاديمي في نهاية كل فصل.
+
